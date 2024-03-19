@@ -17,7 +17,7 @@
         <!-- first child -->
         <nav class="navbar navbar-expand-lg bg-info text-white">
   <div class="container-fluid">
-    <img src="./images\kisspng-responsive-web-design-website-development-e-commer-5b69834be31cc0.2827101115336415479303.jpg" alt="" class="logo">
+    <img src="./images/pngwing.com (1).png" alt="" class="logo">
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -50,6 +50,11 @@
     </div>
   </div>
 </nav>
+
+<!-- last child -->
+<div class ="bg-info p-3 text-center">
+  <p>All Rights Reserved @- Designed By Sanjara-2024</p>
+</div>
 
 
 
