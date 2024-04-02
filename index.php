@@ -9,7 +9,7 @@
     <!-- font awesome link -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <!-- css file -->
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style1.css">
 </head>
 <body>
     <!-- navbar -->
@@ -73,7 +73,7 @@
   <div class="col-md-10">
     <!-- Products -->
     <div class="row">
-      <div class="col-md-4 mb-2">
+      <div class="col-md-4 mb-4">
         <div class="card">
   <img src=".\images\360_F_280258129_XMy3P0xwqiKarnUTv9VUMw2zp3NLKhih.jpg" class="card-img-top" alt="...">
   <div class="card-body">
